@@ -1,0 +1,13 @@
+body {
+    max-width: 800px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+h5{
+    text-align: right;
+}
